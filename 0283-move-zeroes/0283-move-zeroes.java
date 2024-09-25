@@ -6,6 +6,7 @@ class Solution {
             if (nums[i] == 0) {
                 j = i;
                 break;
+                
             }
         }
          if (j == -1) {
