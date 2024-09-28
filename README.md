@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chhavipal01/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/chhavipal01/DSA/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/chhavipal01/DSA/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/chhavipal01/DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
