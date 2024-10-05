@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/chhavipal01/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chhavipal01/DSA/tree/master/0485-max-consecutive-ones) |
+| [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chhavipal01/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
+| [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
