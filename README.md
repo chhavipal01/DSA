@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chhavipal01/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/chhavipal01/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/chhavipal01/DSA/tree/master/0812-rotate-string) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chhavipal01/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
