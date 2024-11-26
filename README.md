@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chhavipal01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chhavipal01/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chhavipal01/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chhavipal01/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chhavipal01/DSA/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/chhavipal01/DSA/tree/master/0575-distribute-candies) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chhavipal01/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chhavipal01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chhavipal01/DSA/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/chhavipal01/DSA/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chhavipal01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chhavipal01/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chhavipal01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chhavipal01/DSA/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 ## Counting
