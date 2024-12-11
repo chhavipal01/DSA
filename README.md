@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chhavipal01/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/chhavipal01/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chhavipal01/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/chhavipal01/DSA/tree/master/0575-distribute-candies) |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chhavipal01/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chhavipal01/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/chhavipal01/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chhavipal01/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/chhavipal01/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chhavipal01/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/chhavipal01/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chhavipal01/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/chhavipal01/DSA/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chhavipal01/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
