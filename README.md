@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/chhavipal01/DSA/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/chhavipal01/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chhavipal01/DSA/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
