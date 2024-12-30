@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/chhavipal01/DSA/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/chhavipal01/DSA/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/chhavipal01/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chhavipal01/DSA/tree/master/0739-daily-temperatures) |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chhavipal01/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chhavipal01/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/chhavipal01/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chhavipal01/DSA/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chhavipal01/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/chhavipal01/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/chhavipal01/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/chhavipal01/DSA/tree/master/2232-adding-spaces-to-a-string) |
 ## Design
 |  |
