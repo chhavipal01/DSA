@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chhavipal01/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chhavipal01/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/chhavipal01/DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chhavipal01/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/chhavipal01/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chhavipal01/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chhavipal01/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chhavipal01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/chhavipal01/DSA/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/chhavipal01/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -193,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chhavipal01/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
