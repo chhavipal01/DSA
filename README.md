@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/chhavipal01/DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chhavipal01/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chhavipal01/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
