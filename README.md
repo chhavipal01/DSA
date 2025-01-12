@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/chhavipal01/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chhavipal01/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chhavipal01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chhavipal01/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/chhavipal01/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chhavipal01/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chhavipal01/DSA/tree/master/0503-next-greater-element-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/chhavipal01/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chhavipal01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chhavipal01/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/chhavipal01/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/chhavipal01/DSA/tree/master/2383-add-two-integers) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chhavipal01/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chhavipal01/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chhavipal01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chhavipal01/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 ## Counting
 |  |
