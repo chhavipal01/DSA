@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chhavipal01/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chhavipal01/DSA/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/chhavipal01/DSA/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 | [1524-string-matching-in-an-array](https://github.com/chhavipal01/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chhavipal01/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chhavipal01/DSA/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/chhavipal01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chhavipal01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/chhavipal01/DSA/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
