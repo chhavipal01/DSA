@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chhavipal01/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/chhavipal01/DSA/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/chhavipal01/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 | [1524-string-matching-in-an-array](https://github.com/chhavipal01/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chhavipal01/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chhavipal01/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/chhavipal01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/chhavipal01/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/chhavipal01/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chhavipal01/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/chhavipal01/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/chhavipal01/DSA/tree/master/3195-separate-black-and-white-balls) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chhavipal01/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chhavipal01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chhavipal01/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/chhavipal01/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/chhavipal01/DSA/tree/master/1137-height-checker) |
 ## Counting
 |  |
