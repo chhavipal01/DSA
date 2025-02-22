@@ -3,13 +3,15 @@ class Solution {
         int l = 0;
         int h = nums.length - 1;
         
-        while (l <=h) {  
+        while (l <= h) {
             int mid = l + (h - l) / 2;
             
             if (nums[mid] == target) {
-                return mid; 
+                return mid;
             }
-             if (nums[l] <= nums[mid]) {  
+            
+            
+            if (nums[l] <= nums[mid]) {  
                 if (nums[l] <= target && target < nums[mid]) {
                     h = mid - 1;
                 } else {
@@ -24,6 +26,6 @@ class Solution {
             }
         }
         
-        return -1;  
+        return -1;
     }
 }
