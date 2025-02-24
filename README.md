@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/chhavipal01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chhavipal01/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
+| [1048-clumsy-factorial](https://github.com/chhavipal01/DSA/tree/master/1048-clumsy-factorial) |
 | [2032-largest-odd-number-in-string](https://github.com/chhavipal01/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/chhavipal01/DSA/tree/master/2383-add-two-integers) |
 ## Two Pointers
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/chhavipal01/DSA/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chhavipal01/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1048-clumsy-factorial](https://github.com/chhavipal01/DSA/tree/master/1048-clumsy-factorial) |
 | [1078-remove-outermost-parentheses](https://github.com/chhavipal01/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chhavipal01/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chhavipal01/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/chhavipal01/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
+| [1048-clumsy-factorial](https://github.com/chhavipal01/DSA/tree/master/1048-clumsy-factorial) |
 | [2232-adding-spaces-to-a-string](https://github.com/chhavipal01/DSA/tree/master/2232-adding-spaces-to-a-string) |
 ## Design
 |  |
