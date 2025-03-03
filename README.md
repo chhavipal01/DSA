@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chhavipal01/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/chhavipal01/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/chhavipal01/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/chhavipal01/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/chhavipal01/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/chhavipal01/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/chhavipal01/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chhavipal01/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/chhavipal01/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/chhavipal01/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/chhavipal01/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/chhavipal01/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## String
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/chhavipal01/DSA/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/chhavipal01/DSA/tree/master/1048-clumsy-factorial) |
 | [2232-adding-spaces-to-a-string](https://github.com/chhavipal01/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/chhavipal01/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Design
 |  |
 | ------- |
