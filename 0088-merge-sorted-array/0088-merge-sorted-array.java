@@ -2,12 +2,23 @@ import java.util.Arrays;
 
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-    
-        for (int i = 0; i < n; i++) {
-            nums1[m + i] = nums2[i];
+        int l1 = m - 1;
+        int l2 = n- 1;
+        int l = m+n-1;
+
+        while(l1 >= 0 && l2 >=0){
+            if(nums1[l1] > nums2[l2]){
+                nums1[l--] = nums1[l1--];
+
+            }else{
+                nums1[l--] = nums2[l2--];
+            }
         }
-        
-        
-        Arrays.sort(nums1);
+        while(l2>=0){
+             nums1[l--] = nums2[l2--];
+        }
+        while(l1>=0){
+             nums1[l--] = nums1[l1--];
+        }
     }
 }
