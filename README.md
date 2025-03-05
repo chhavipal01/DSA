@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/chhavipal01/DSA/tree/master/1048-clumsy-factorial) |
 | [2032-largest-odd-number-in-string](https://github.com/chhavipal01/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/chhavipal01/DSA/tree/master/2383-add-two-integers) |
+| [2649-count-total-number-of-colored-cells](https://github.com/chhavipal01/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 ## Two Pointers
 |  |
 | ------- |
