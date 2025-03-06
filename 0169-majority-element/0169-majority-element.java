@@ -3,5 +3,4 @@ class Solution {
         Arrays.sort(nums);
         return nums[nums.length/2];
     }
-    
 }
