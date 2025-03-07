@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chhavipal01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chhavipal01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chhavipal01/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/chhavipal01/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/chhavipal01/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/chhavipal01/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/chhavipal01/DSA/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chhavipal01/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/chhavipal01/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chhavipal01/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/chhavipal01/DSA/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chhavipal01/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/chhavipal01/DSA/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/chhavipal01/DSA/tree/master/1048-clumsy-factorial) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/chhavipal01/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/chhavipal01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chhavipal01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/chhavipal01/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chhavipal01/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chhavipal01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/chhavipal01/DSA/tree/master/0344-reverse-string) |
