@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chhavipal01/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chhavipal01/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chhavipal01/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/chhavipal01/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/chhavipal01/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/chhavipal01/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/chhavipal01/DSA/tree/master/0075-sort-colors) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chhavipal01/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/chhavipal01/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chhavipal01/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chhavipal01/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/chhavipal01/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chhavipal01/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/chhavipal01/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chhavipal01/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chhavipal01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chhavipal01/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
